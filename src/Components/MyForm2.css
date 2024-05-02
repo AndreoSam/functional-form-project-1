@@ -1,0 +1,21 @@
+
+.container {
+  background-color: pink;
+  /* width: 100%; */
+  border: 2px solid black;
+  text-align: left;
+  padding: 50px;
+}
+
+label {
+  font-weight: bolder;
+}
+
+input.submit {
+    background-color:lightblue;
+   align-content: end;
+}
+
+input{
+    align-items: end;
+}
